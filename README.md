@@ -1,5 +1,7 @@
 # 8 Puzzle Solver
 
+**Alunas:** Mariele Vieira e Maria A. Giuliari
+
 ## Como a IA ajudou a construir a solução
 
 ---
