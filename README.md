@@ -1,6 +1,16 @@
-# 8 Puzzle Solver
+<h1 align="center">8 Puzzle Solver</h1>
 
-**Alunas:** Mariele Vieira e Maria A. Giuliari
+<p align="center">
+  <strong>Algoritmos Avançados — Católica SC</strong><br/>
+  Mariele Vieira e Maria A. Giuliari
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.16-blue?logo=python" alt="Python"/>
+  <img src="https://img.shields.io/badge/HTML-Visualizacao-yellowgreen?logo=pygame" alt="Pygame"/>
+  <img src="https://img.shields.io/badge/Algoritmo-A*-orange" alt="A* Search"/>
+</p>
+
 
 ## Como a IA ajudou a construir a solução
 
