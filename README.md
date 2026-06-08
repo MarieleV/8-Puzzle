@@ -11,11 +11,10 @@
   <img src="https://img.shields.io/badge/Algoritmo-A*-orange" alt="A* Search"/>
 </p>
 
-
-## Como a IA ajudou a construir a solução
+ <h3 align="center">Relatório de como IA ajudou a construir a solução</h3>
 
 ---
-
+ 
 ### O Problema
 
 O **8 Puzzle** é um quebra-cabeça clássico de Inteligência Artificial: um tabuleiro 3×3 com 8 peças numeradas e um espaço vazio. O objetivo é deslizar as peças até atingir o estado final `1 2 3 / 4 5 6 / 7 8 ☐`.
