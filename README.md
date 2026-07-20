@@ -2,7 +2,6 @@
 
 <p align="center">
   <strong>Algoritmos Avançados — Católica SC</strong><br/>
-  Mariele Vieira e Maria A. Giuliari
 </p>
 
 <p align="center">
